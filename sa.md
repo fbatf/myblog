@@ -1,5 +1,5 @@
-title: HEXO的常用MarkDown语法
-date: 2018-09-10 11:53:38
+title: java反序列化 cc1
+date: 2023-6-2 10-13-00
 updated:
 tags: [hexo]
 description:
@@ -7,6 +7,6 @@ keywords:
 comments:
 image:
 categories:
-  - 笔记
+  - java反序列化
 #asdasdsa
 #hello
